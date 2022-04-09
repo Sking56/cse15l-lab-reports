@@ -4,7 +4,7 @@ Navigate to the Microsoft's website for [VSCode](https://code.visualstudio.com/d
 
 In my case I use a Mac so I would install the Mac version
 
-<img src="imgs/VSCodeSS1.png" width="50%">
+![Image](imgs/VSCodeSS1.png)
 
 ---
 
@@ -21,7 +21,7 @@ This will then prompt you for a password which once typed in will log you in
 
 ![Image](imgs/SSH%20login.png)
 
-<img src="imgs/SSH login2.png" width ="50%">
+![Image](imgs/SSH%20login2.png)
 
 ---
 
@@ -36,4 +36,4 @@ Some of these commands such as ls have parameters that can be added by doing `ls
 
 A few uses of these commands are listed below
 
-<img src="imgs/ssh commands.png" width ="50%">
+![Image](imgs/ssh%20commands.png)
