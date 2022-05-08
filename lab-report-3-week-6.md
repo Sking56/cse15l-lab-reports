@@ -20,13 +20,15 @@ Second half shows the file in the remote folder
 
 ## Setting Up Github Access from ieng6
 
+### Public Key Saved in GitHub
+
 ![Image](imgs/lr3-pic-4.png)
 
-Public key saved in GitHub
+### Public and Private Key in User Account
 
 ![Image](imgs/lr3-pic-5.png)
 
-Location of the public and private key in user account
+### Git commands in the remote user account
 
 ![Image](imgs/lr3-pic-6.png)
 
@@ -38,13 +40,19 @@ Showing the use of git commands on the remote user using the Skill Demonstration
 
 ## Copy Whole Directories with scp -r
 
+### Copying MarkdownParse
+
 ![Image](imgs/lr3-pic-7.png)
 
 As seen in the picture, all the contents of the markdown-parse directory were copied. However given the amount of files in the folder not all contents could fit in one screenshot.
 
+### Running tests on remote account
+
 ![Image](imgs/lr3-pic-8.png)
 
 Compiled and ran the java tests using the existing make files as depicted above.
+
+### Running with *scp, ;, and ssh*
 
 ![Image](imgs/lr3-pic-9.png)
 
